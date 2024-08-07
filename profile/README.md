@@ -1,8 +1,8 @@
-## Hi there 👋
+## Projeto Y 👋
 
 <!--
 
-**Here are some ideas to get you started:**
+**Ideias incriveís de um grupo incrivel:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
 🌈 Contribution guidelines - how can the community get involved?
