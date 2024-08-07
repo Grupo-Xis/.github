@@ -1,2 +1,3 @@
-# .github
-ReadMe .github, contendo a documentação do projeto
+# Projeto y do Grupo Xis
+
+O projeto y tem o intuito de arrumar alguma coisa incrível.
